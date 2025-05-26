@@ -1,0 +1,3 @@
+[submodule "indiatel"]
+	path = indiatel
+	url = git@github.com:abhilashRupa/indiatel.git
